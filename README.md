@@ -8,16 +8,25 @@
  
  
  #Data Extraction for US and SA stocks
- <img width="897" alt="Screenshot 2023-02-19 at 10 35 28" src="https://user-images.githubusercontent.com/61363539/219937641-a5b842d0-c644-4a50-9e9d-e4050e3942ce.png">
+ <img width="1140" alt="Screenshot 2023-02-19 at 14 51 00" src="https://user-images.githubusercontent.com/61363539/219949116-f05e31bd-00e3-473e-a168-1ba4b1b1fd37.png">
+
  
- <img width="594" alt="Screenshot 2023-02-19 at 10 42 40" src="https://user-images.githubusercontent.com/61363539/219937944-0a7709ac-6ee1-4a2b-9f18-9b477dbbb3b5.png">
+<img width="1141" alt="Screenshot 2023-02-19 at 14 52 22" src="https://user-images.githubusercontent.com/61363539/219949177-47c72d1f-8366-4b77-b4c6-613d4fd1f6b2.png">
+
 
 
 
 #Results
 
+Past Performances of SA stocks from 2015 - 2023
+<img width="1140" alt="Screenshot 2023-02-19 at 14 54 03" src="https://user-images.githubusercontent.com/61363539/219949273-79634c79-910c-4d9d-97da-cd0f5239d105.png">
 
-Correlation between Stocks
+Past Performances of US stocks from 2015 - 2023
+<img width="1140" alt="Screenshot 2023-02-19 at 14 55 31" src="https://user-images.githubusercontent.com/61363539/219949343-8c16a455-d74f-42f0-b984-2ad3e8ccda51.png">
+
+
+
+Correlation between SA Stocks
 - There also less correlation between the assets for South African stocks excepts for IMP and SSW, which showed strong correlation as shown below
 - This makes sense as both these companies operates in the same industry which is mining.
 <img width="620" alt="Screenshot 2023-02-19 at 10 29 58" src="https://user-images.githubusercontent.com/61363539/219937396-a87b96b6-f639-492f-87ee-aa1841cb83b5.png">
