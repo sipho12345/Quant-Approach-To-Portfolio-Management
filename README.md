@@ -2,7 +2,8 @@
  - In This Project We Extract The Combination Of Stocks Daily Closing Price Data from Yahoo Finance.
  - Cleaned and Scale the data for use.
  - The data usedisfrom 1 January 2015 - 1 January 2023.
- - The assets choosen were AMS, AMZN, AAPL, NTC, FSR, SSW, APN, RBP and IMP
+ - The stocks choosen in SA were AMS, NTC, FSR, SSW, APN, RBP and IMP.
+ - The stocks choosen in US were AMZN, AAPL.
  - To Calculate Portfolio Returns, Risk, Correlation and Covariance Between Those Assets For Portfolio Optimization. 
  - These Techniques Are Some Of The Strategies Used By Fund/Portfolio Managers In Investment Firms.
  - The SA portfolio has a volatility and return of 4% and 0.5% respectively.
