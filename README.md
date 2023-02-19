@@ -33,15 +33,6 @@
 
 #Results
 
-Correlation for US stocks
-<img width="544" alt="Screenshot 2023-02-19 at 10 44 59" src="https://user-images.githubusercontent.com/61363539/219938083-56be8a57-9655-4193-94a2-5de643faed93.png">
-
-
-
-Covariance for US stocks
-<img width="538" alt="Screenshot 2023-02-19 at 10 44 28" src="https://user-images.githubusercontent.com/61363539/219938107-82977dba-b5a9-4fe4-8542-f110a6671289.png">
-
-
 
 Correlation for SA stocks
 - There also less correlation between the assets for South African stocks excepts for IMP and SSW, which showed strong correlation as shown below
