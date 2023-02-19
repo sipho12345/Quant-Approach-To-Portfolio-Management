@@ -1,7 +1,7 @@
 # Quantitative Approach To Portfolio Management
  - In This Project We Extract The Combination Of Stocks Daily Closing Price Data from Yahoo Finance.
  - Cleaned and Scale the data for use.
- - The data usedisfrom 1 January 2015 - 1 January 2023.
+ - The data used is from 1 January 2015 - 1 January 2023.
  - The stocks choosen in SA were AMS, NTC, FSR, SSW, APN, RBP and IMP.
  - The stocks choosen in US were AMZN, AAPL.
  - To Calculate Portfolio Returns, Risk, Correlation and Covariance Between Those Assets For Portfolio Optimization. 
