@@ -9,6 +9,10 @@
  
  #Data Extraction for US and SA stocks
  <img width="897" alt="Screenshot 2023-02-19 at 10 35 28" src="https://user-images.githubusercontent.com/61363539/219937641-a5b842d0-c644-4a50-9e9d-e4050e3942ce.png">
+ 
+ 
+ 
+ 
  <img width="594" alt="Screenshot 2023-02-19 at 10 42 40" src="https://user-images.githubusercontent.com/61363539/219937944-0a7709ac-6ee1-4a2b-9f18-9b477dbbb3b5.png">
 
  
