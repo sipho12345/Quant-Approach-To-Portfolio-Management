@@ -15,14 +15,24 @@
 #8 year Historical Performance for SA stocks
 <img width="560" alt="Screenshot 2023-02-19 at 10 51 43" src="https://user-images.githubusercontent.com/61363539/219938333-3edd9681-70e9-4983-a03c-eaa609deeb4c.png">
 
+
+
+
+
 #8 year Historical Performance for US stocks
 <img width="593" alt="Screenshot 2023-02-19 at 10 53 41" src="https://user-images.githubusercontent.com/61363539/219938447-0b6586ab-bab5-40c6-a91c-44831c14ecf4.png">
+
+
+
+
 
 
 #Results
 
 Correlation for US stocks
 <img width="544" alt="Screenshot 2023-02-19 at 10 44 59" src="https://user-images.githubusercontent.com/61363539/219938083-56be8a57-9655-4193-94a2-5de643faed93.png">
+
+
 
 Covariance for US stocks
 <img width="538" alt="Screenshot 2023-02-19 at 10 44 28" src="https://user-images.githubusercontent.com/61363539/219938107-82977dba-b5a9-4fe4-8542-f110a6671289.png">
@@ -33,6 +43,9 @@ Correlation for SA stocks
 - There also less correlation between the assets for South African stocks excepts for IMP and SSW, which showed strong correlation as shown below
 - This makes sense as both these companies operates in the same industry which is mining.
 <img width="620" alt="Screenshot 2023-02-19 at 10 29 58" src="https://user-images.githubusercontent.com/61363539/219937396-a87b96b6-f639-492f-87ee-aa1841cb83b5.png">
+
+
+
 
 Covariance for SA stocks
 - There also less covariance between the assets for South African stocks excepts for IMP and SSW, which showed high covariance as shown below
