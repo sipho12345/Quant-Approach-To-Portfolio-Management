@@ -1,4 +1,4 @@
-# These Files Can Only Be Run Through Jupyter NoteBook or Google Colab
+# Quantitative Approach To Portfolio Management
  - In This Project We Extract The Combination Of Stocks Daily Closing Price Data from Yahoo Finance.
  - Cleaned and Scale the data for use.
  - The assets choosen were AMS, AMZN, AAPL, NTC, FSR, SSW, APN, RBP and IMP
