@@ -39,7 +39,7 @@ Correlation and Covariance between SA Stocks
 
 
 Correlation and Covariance between US Stocks
-- There also less covariance between the assets for American stocks.
+- Amazon and Apple has low correlation.
 - Low Correlation and Covariance indicates good diversification in a portfolio.
 <img width="1155" alt="Screenshot 2023-02-19 at 15 02 32" src="https://user-images.githubusercontent.com/61363539/219949775-25c1b6e4-3d98-4913-ad2a-2edabef22621.png">
 <img width="1138" alt="Screenshot 2023-02-19 at 15 03 39" src="https://user-images.githubusercontent.com/61363539/219949842-d5cd377a-05e2-4775-a9b1-b05cac9eb19f.png">
