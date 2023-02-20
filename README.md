@@ -1,4 +1,5 @@
 # Quantitative Approach To Portfolio Management
+Precedure:
  - In This Project We Extract The Combination Of Stocks Daily Closing Price Data from Yahoo Finance.
  - Cleaned and Scale the data for use.
  - The data used is from 1 January 2015 - 1 January 2023.
