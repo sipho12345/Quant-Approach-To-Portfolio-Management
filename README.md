@@ -40,7 +40,7 @@ Precedure:
 
 # Share Insight:
  Correlation and Covariance between SA Stocks:
-  - There also less correlation between the assets for South African stocks excepts for IMP and SSW, which showed strong correlation as shown below
+  - There less correlation between the assets for South African stocks excepts for IMP and SSW, which showed strong correlation as shown below
   - This makes sense as both these companies operates in the same industry which is mining.
   - Low Correlation and Covariance indicates good diversification in a portfolio.
 <img width="1140" alt="Screenshot 2023-02-19 at 14 58 14" src="https://user-images.githubusercontent.com/61363539/219949510-5daab56c-981b-42ce-a0d6-f94da281b054.png">
